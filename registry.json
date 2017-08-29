@@ -3,7 +3,9 @@
   "registry_type": "theme",
   "packages": [{
     "name": "san-marzano",
-    "authors": ["octavore"],
+    "authors": [{
+      "name": "octavore"
+    }],
     "description": "Your basic ketchup theme!",
     "homepage": "https://github.com/ketchuphq/san-marzano",
     "readme_url": "",
